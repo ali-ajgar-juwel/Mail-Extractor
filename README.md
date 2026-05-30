@@ -38,7 +38,7 @@ How to Use
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/your-username/your-repo-name.git](https://ali-ajgar-juwel.github.io/Mail-Extractor/
 Install the required dependencies:
 
 Bash
